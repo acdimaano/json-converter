@@ -1,0 +1,7 @@
+Title: My Sample Document
+Author: John Doe
+Date: 2026-08-08
+Content:
+This is the body of the document.
+It can span multiple lines and will be
+preserved as a single content field in the JSON output.
